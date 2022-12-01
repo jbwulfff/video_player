@@ -16,6 +16,7 @@
 		91B14FC82938D47400F3FC00 /* video_playerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B14FC72938D47400F3FC00 /* video_playerTests.swift */; };
 		91B14FD22938D47400F3FC00 /* video_playerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B14FD12938D47400F3FC00 /* video_playerUITests.swift */; };
 		91B14FD42938D47400F3FC00 /* video_playerUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91B14FD32938D47400F3FC00 /* video_playerUITestsLaunchTests.swift */; };
+		91B14FE12938D87400F3FC00 /* test.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 91B14FE02938D87400F3FC00 /* test.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		91B14FCD2938D47400F3FC00 /* video_playerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = video_playerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		91B14FD12938D47400F3FC00 /* video_playerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITests.swift; sourceTree = "<group>"; };
 		91B14FD32938D47400F3FC00 /* video_playerUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = video_playerUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		91B14FE02938D87400F3FC00 /* test.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = test.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				91B14FB02938D47100F3FC00 /* AppDelegate.swift */,
 				91B14FB22938D47100F3FC00 /* SceneDelegate.swift */,
 				91B14FB42938D47100F3FC00 /* ViewController.swift */,
+				91B14FE02938D87400F3FC00 /* test.mp4 */,
 				91B14FB62938D47100F3FC00 /* Main.storyboard */,
 				91B14FB92938D47300F3FC00 /* Assets.xcassets */,
 				91B14FBB2938D47300F3FC00 /* LaunchScreen.storyboard */,
@@ -234,6 +237,7 @@
 				91B14FBD2938D47300F3FC00 /* LaunchScreen.storyboard in Resources */,
 				91B14FBA2938D47300F3FC00 /* Assets.xcassets in Resources */,
 				91B14FB82938D47100F3FC00 /* Main.storyboard in Resources */,
+				91B14FE12938D87400F3FC00 /* test.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
